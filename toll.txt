@@ -1,0 +1,16 @@
+truck 3 4500 card
+car 2 cash
+car 2 cash
+car 4 card
+truck 2 5000 cash
+truck 6 70000 card
+car 2 card
+truck 5 12500 cash
+truck 2 5000 cash
+car 4 card
+car 2 card
+truck 6 21000 card
+truck 2 5000 card
+car 4 card
+truck 5 60000 card
+truck 2 4000 card
